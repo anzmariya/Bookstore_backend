@@ -1,0 +1,447 @@
+{
+  "users": [
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malavikavenu914@gmail.com",
+      "password": "malu1234",
+      "confirmpassword": "malu1234",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "bookName": "IRON FLAME",
+      "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+      "authorName": "Rebecca Yarros",
+      "amount": "850",
+      "language": "English",
+      "pages": "256",
+      "imageUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+      "category": "Best Sellers",
+      "id": 1
+    },
+    {
+      "bookName": "RESURRECTION WALK",
+      "description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+      "authorName": "Michael Connelly",
+      "amount": "17.60",
+      "language": "English",
+      "pages": "215",
+      "imageUrl": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+      "category": "Best Sellers",
+      "id": 2
+    },
+    {
+      "bookName": "BOOKSHOPS & BONEDUST",
+      "description": "In a prequel to “Legends & Lattes,\" an orc who was hurt during a battle winds up in a sleepy beach town called Murk.",
+      "authorName": "Travis Baldree",
+      "amount": "20.70",
+      "language": "English",
+      "pages": "187",
+      "imageUrl": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+      "category": "Best Sellers",
+      "id": 3
+    },
+    {
+      "bookName": "Wuthering Heights- fingerprint",
+      "description": "Immerse yourself in the tempestuous world of Wuthering Heights by Emily Bronte. This hauntingly beautiful novel unravels a tale of forbidden love, revenge, and tumultuous emotions as captivating characters navigate the wild moors of 19th-century Yorkshire.\n\nA tale of passion and dark romance!\n",
+      "authorName": "Emily Brontë ",
+      "amount": "15.56",
+      "language": "English",
+      "pages": "217",
+      "imageUrl": "https://m.media-amazon.com/images/I/71IobR8EclL._SY466_.jpg",
+      "category": "Fiction Books",
+      "id": 4
+    },
+    {
+      "bookName": "A Man Called Ove",
+      "description": "The million-copy bestselling phenomenon, Fredrik Backman's heartwarming debut is a funny, moving, uplifting tale of love and community that will leave you with a spring in your step. Perfect for fans of Rachel Joyce's The Unlikely Pilgrimage of Harold Fry, Graeme Simsion's The Rosie Project and David Nicholl's US. New York Times bestseller'Warm, funny, and almost unbearably moving' Daily Mail'Rescued all those men who constantly mean to read novels but never get round to it' Spectator Books of the YearAt first sight, Ove is almost certainly the grumpiest man you will ever meet. He thinks himself surrounded by idiots - neighbours who can't reverse a trailer properly, joggers, shop assistants who talk in code, and the perpetrators of the vicious coup d'etat that ousted him as Chairman of the Residents' Association. He will persist in making his daily inspection rounds of the local streets. But isn't it rare, these days, to find such old-fashioned clarity of belief and deed? Such unswerving conviction about what the world should be, and a lifelong dedication to making it just so?In the end, you will see, there is something about Ove that is quite irresistible. . .",
+      "authorName": "Fredrik Backman",
+      "amount": "21.85",
+      "language": "English",
+      "pages": "194",
+      "imageUrl": "https://m.media-amazon.com/images/I/81DXIOk9glL._SY466_.jpg",
+      "category": "Fiction Books",
+      "id": 5
+    },
+    {
+      "bookName": "Dark Matter",
+      "description": "'Brilliant. . . I think Blake Crouch just invented something new' Lee Child, author of the Jack Reacher series.From Blake Crouch, the author of the bestselling Wayward Pines trilogy, Dark Matter is sweeping and intimate, mind-bendingly strange and profoundly human ? ",
+      "authorName": "Blake Crouch",
+      "amount": "18.55",
+      "language": "English",
+      "pages": "285",
+      "imageUrl": "https://m.media-amazon.com/images/I/81xS77gfCgL._SY466_.jpg",
+      "category": "Fiction Books",
+      "id": 6
+    },
+    {
+      "bookName": "The ARCHER",
+      "description": "In The Archer we meet Tetsuya, a man once famous for his prodigious gift with a bow and arrow but who has since retired from public life, and the boy who comes searching for him. ",
+      "authorName": "Paulo Coelho",
+      "amount": "18.12",
+      "language": "English",
+      "pages": "158",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pjaEBslxL._SY466_.jpg",
+      "category": "Fiction Books",
+      "id": 7
+    },
+    {
+      "bookName": "YOU ONLY LIVE ONCE",
+      "description": "What if you ran away from your life today?\n\nTwenty years later, three people are looking for you.\n\nOne is dying to meet you again.",
+      "authorName": "STUTI CHANGLE",
+      "amount": "15.50",
+      "language": "English",
+      "pages": "225",
+      "imageUrl": "https://m.media-amazon.com/images/I/71dNsRuYL7L._SY466_.jpg",
+      "category": "Fiction Books",
+      "id": 8
+    },
+    {
+      "bookName": "Everything the Light Touches",
+      "description": "In Everything the Light Touches we meet many travellers: Shai, a young Indian woman who journeys to India's northeast and rediscovers, through her encounters with indigenous communities, ways of living that realign and renew her.",
+      "authorName": "Janice Pariat",
+      "amount": "18.40",
+      "language": "English",
+      "pages": "184",
+      "imageUrl": "https://m.media-amazon.com/images/I/91ngTH8hVNL._SY466_.jpg",
+      "category": "Award Winners",
+      "id": 9
+    },
+    {
+      "bookName": "The Room on the Roof",
+      "description": "A classic coming-of-age story which has held generations of readers spellbound!\n\nRusty, a sixteen-year-old Anglo-Indian boy, is orphaned and has to live with his English guardian in the claustrophobic European part in Dehra Dun. Unhappy with the strict ways of his guardian,",
+      "authorName": "Ruskin Bond",
+      "amount": "21.70",
+      "language": "English",
+      "pages": "197",
+      "imageUrl": "https://m.media-amazon.com/images/I/81kvQ92hrcL._SY466_.jpg",
+      "category": "Award Winners",
+      "id": 10
+    },
+    {
+      "bookName": "Round House",
+      "description": "One Sunday in the spring of 1988, a woman living on a reservation in North Dakota is attacked. The details of the crime are slow to surface because Geraldine Coutts is traumatized and reluctant to relive or reveal what happened, either to the police or to her husband, Bazil, and thirteen-year-old son, Joe.",
+      "authorName": "Louise Erdrich",
+      "amount": "22.50",
+      "language": "English",
+      "pages": "196",
+      "imageUrl": "https://m.media-amazon.com/images/I/6126RBcszEL._SY466_.jpg",
+      "category": "Award Winners",
+      "id": 11
+    },
+    {
+      "bookName": "The Waiter",
+      "description": "Disgraced detective Kamil Rahman moves from Kolkata to London to start afresh as a waiter in an Indian restaurant. But the peace of his new life is soon shattered. The day Kamil caters an extravagant party, the powerful host, Rakesh, is found dead in his swimming pool.\n",
+      "authorName": "Ajay Chowdhury ",
+      "amount": "15.50",
+      "language": "English",
+      "pages": "223",
+      "imageUrl": "https://m.media-amazon.com/images/I/81V9YBeBVjL._SY466_.jpg",
+      "category": "Award Winners",
+      "id": 12
+    },
+    {
+      "bookName": "Life, Animated",
+      "description": "Now an Award-Winning Motion Picture. What if you were trapped in a Disney movie? In all of them, actually - from Dumbo to Peter Pan to The Lion King -- and had to learn about life and love mostly from what could be gleaned from animated characters, dancing across a screen of color?",
+      "authorName": "Ron Suskind ",
+      "amount": "22.00",
+      "language": "English",
+      "pages": "185",
+      "imageUrl": "https://m.media-amazon.com/images/I/71n-VuBb2LL._SY466_.jpg",
+      "category": "Award Winners",
+      "id": 13
+    },
+    {
+      "bookName": "Naruto",
+      "description": "The world’s most popular ninja comic!Naruto is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but Naruto is completely serious about his mission to be the world’s greatest ninja!Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. ",
+      "authorName": "Masashi Kishimoto ",
+      "amount": "27.50",
+      "language": "japanese",
+      "pages": "344",
+      "imageUrl": "https://m.media-amazon.com/images/I/91RpwagB7uL._SY466_.jpg",
+      "category": "Anime Comics",
+      "id": 14
+    },
+    {
+      "bookName": "The Hunger Games",
+      "authorName": "Suzanne Collins",
+      "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\n\nSixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before—and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+      "pages": "374",
+      "language": "English",
+      "amount": "34",
+      "category": "Best Sellers",
+      "id": 20
+    },
+    {
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037.jpg",
+      "language": "English",
+      "pages": "487",
+      "bookName": "Divergent",
+      "amount": "12",
+      "description": "In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is—she can't have both. So she makes a choice that surprises everyone, including herself.\n\nDuring the highly competitive initiation that follows, Beatrice renames herself Tris and struggles alongside her fellow initiates to live out the choice they have made. Together they must undergo extreme physical tests of endurance and intense psychological simulations, some with devastating consequences. As initiation transforms them all, Tris must determine who her friends really are—and where, exactly, a romance with a sometimes fascinating, sometimes exasperating boy fits into the life she's chosen. But Tris also has a secret, one she's kept hidden from everyone because she's been warned it can mean death. And as she discovers unrest and growing conflict that threaten to unravel her seemingly perfect society, she also learns that her secret might help her save those she loves . . . or it might destroy her.",
+      "authorName": "Veronica Roth",
+      "category": "Best Sellers",
+      "id": 21
+    },
+    {
+      "authorName": "Veronica Roth",
+      "bookName": "The Book Thief",
+      "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.\n\nBy her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.\n\nBut these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down.\n\nIn superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.\n\n(Note: this title was not published as YA fiction)",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg",
+      "amount": "10.89",
+      "language": "English",
+      "pages": "592",
+      "category": "Best Sellers",
+      "id": 22
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam.",
+      "author": "A P J Abdul Kalam",
+      "amount": "150",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "300",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 23
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam.",
+      "author": "A P J Abdul Kalam",
+      "amount": "298",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "300",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 24
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam.",
+      "author": "A P J Abdul Kalam",
+      "amount": "298",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "300",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 25
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam.",
+      "author": "A P J Abdul Kalam",
+      "amount": "299",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "340",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 26
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "bvdkjk.dm",
+      "author": "nn,m",
+      "amount": "5766",
+      "category": "Award Winners",
+      "lang": "vsh",
+      "pages": "67",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 27
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "bvdkjk.dm",
+      "author": "nn,m",
+      "amount": "5766",
+      "category": "Award Winners",
+      "lang": "vsh",
+      "pages": "67",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 28
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "dvskdjjkk",
+      "author": "A P J Abdul Kalam",
+      "amount": "6789",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "456",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 29
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "dvskdjjkk",
+      "author": "A P J Abdul Kalam",
+      "amount": "6789",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "456",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 30
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "bfjkfkle",
+      "author": "A P J Abdul Kalam",
+      "amount": "894444",
+      "category": "Award Winners",
+      "lang": "english",
+      "pages": "345",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": 31
+    },
+    {
+      "bname": "Looking for Alaska",
+      "description": "Alaska is a wild, unpredictable, beautiful, and enigmatic girl with a sad backstory who captures Miles' attention and heart",
+      "author": "John Green",
+      "amount": "250",
+      "category": "Anime Comics",
+      "lang": "english",
+      "pages": "234",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLooking-Alaska-John-Green%2Fdp%2F0593109066&psig=AOvVaw3Zs7OpDdA1TDY3g4d01Q_p&ust=1700835682178000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDOqeeo2oIDFQAAAAAdAAAAABAD",
+      "id": 32
+    },
+    {
+      "bname": "Adu Jeevitham",
+      "description": "The real-life incident of an Indian migrant worker, Najeeb Muhammad, who goes to Saudi Arabia to earn money",
+      "author": "Banyamin",
+      "amount": "300",
+      "category": "Award Winners",
+      "lang": "Malayalam",
+      "pages": "298",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gadgets360.com%2Fentertainment%2Faadujeevitham-movie-115793&psig=AOvVaw1gB7SL8fGE7V32yW480JYe&ust=1700836285062000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjk3Iar2oIDFQAAAAAdAAAAABAI",
+      "id": 33
+    },
+    {
+      "bname": "vvbvb",
+      "description": "eddddd",
+      "author": "eee",
+      "amount": "560",
+      "category": "Fiction Books",
+      "lang": "eee",
+      "pages": "677",
+      "url": "eee",
+      "id": 34
+    },
+    {
+      "bname": "weee",
+      "description": "www",
+      "author": "A P J Abdul Kalam",
+      "amount": "456",
+      "category": "Fiction Books",
+      "lang": "www",
+      "pages": "345",
+      "url": "qw",
+      "id": 35
+    },
+    {
+      "bname": "weee",
+      "description": "www",
+      "author": "A P J Abdul Kalam",
+      "amount": "456",
+      "category": "Fiction Books",
+      "lang": "www",
+      "pages": "345",
+      "url": "qw",
+      "id": 36
+    },
+    {
+      "bname": "Wings of fire",
+      "description": "ghh",
+      "author": "we",
+      "amount": "344",
+      "category": "Fiction Books",
+      "lang": "aqq",
+      "pages": "33",
+      "url": "aqq",
+      "id": 37
+    }
+  ],
+  "wishlist": [
+    {
+      "bname": "The ARCHER",
+      "amount": "18.12",
+      "url": "https://m.media-amazon.com/images/I/71pjaEBslxL._SY466_.jpg",
+      "author": "Paulo Coelho",
+      "id": 1
+    },
+    {
+      "bname": "RESURRECTION WALK",
+      "amount": "17.60",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+      "author": "Michael Connelly",
+      "id": 2
+    },
+    {
+      "bname": "RESURRECTION WALK",
+      "amount": "17.60",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+      "author": "Michael Connelly",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "bname": "The Room on the Roof",
+      "amount": "21.70",
+      "url": "https://m.media-amazon.com/images/I/81kvQ92hrcL._SY466_.jpg",
+      "author": "Ruskin Bond",
+      "id": 1
+    },
+    {
+      "bname": "Round House",
+      "amount": "22.50",
+      "url": "https://m.media-amazon.com/images/I/6126RBcszEL._SY466_.jpg",
+      "author": "Louise Erdrich",
+      "id": 2
+    },
+    {
+      "bname": "The ARCHER",
+      "amount": "18.12",
+      "url": "https://m.media-amazon.com/images/I/71pjaEBslxL._SY466_.jpg",
+      "author": "Paulo Coelho",
+      "id": 6
+    },
+    {
+      "bname": "Dark Matter",
+      "amount": "18.55",
+      "url": "https://m.media-amazon.com/images/I/81xS77gfCgL._SY466_.jpg",
+      "author": "Blake Crouch",
+      "id": 7
+    },
+    {
+      "bname": "A Man Called Ove",
+      "amount": "21.85",
+      "url": "https://m.media-amazon.com/images/I/81DXIOk9glL._SY466_.jpg",
+      "author": "Fredrik Backman",
+      "id": 8
+    },
+    {
+      "bname": "The Room on the Roof",
+      "amount": "21.70",
+      "url": "https://m.media-amazon.com/images/I/81kvQ92hrcL._SY466_.jpg",
+      "author": "Ruskin Bond",
+      "id": 9
+    },
+    {
+      "bname": "BOOKSHOPS & BONEDUST",
+      "amount": "20.70",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+      "author": "Travis Baldree",
+      "id": 10
+    },
+    {
+      "bname": "BOOKSHOPS & BONEDUST",
+      "amount": "20.70",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+      "author": "Travis Baldree",
+      "id": 11
+    }
+  ]
+}
